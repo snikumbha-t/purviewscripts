@@ -23,7 +23,7 @@ Running the script
 
 ```powershell
 # Activate your venv, then
-C:/Users/sniku/Downloads/Scripts/.venv/Scripts/python.exe EnterpriseGlossary/CreateBusinessTerms.py
+C:/Users/xxx/Downloads/Scripts/.venv/Scripts/python.exe EnterpriseGlossary/CreateBusinessTerms.py
 ```
 
 Notes
