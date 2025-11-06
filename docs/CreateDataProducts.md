@@ -12,7 +12,7 @@ Environment variables
 Running the script
 
 ```powershell
-C:/Users/sniku/Downloads/Scripts/.venv/Scripts/python.exe EnterpriseGlossary/CreateDataProducts.py
+C:/Users/xxx/Downloads/Scripts/.venv/Scripts/python.exe EnterpriseGlossary/CreateDataProducts.py
 ```
 
 Notes
