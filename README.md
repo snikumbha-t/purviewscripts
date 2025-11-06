@@ -21,7 +21,7 @@ Prerequisites
 
 ```powershell
 # from the workspace root
-C:/Users/sniku/Downloads/Scripts/.venv/Scripts/python.exe -m pip install -r requirements.txt
+C:/Users/Downloads/Scripts/.venv/Scripts/python.exe -m pip install -r requirements.txt
 ```
 
 - The scripts use the `unifiedcatalogpy` client (and some scripts use
@@ -29,7 +29,7 @@ C:/Users/sniku/Downloads/Scripts/.venv/Scripts/python.exe -m pip install -r requ
 	Purview. Install those packages if not already present:
 
 ```powershell
-C:/Users/sniku/Downloads/Scripts/.venv/Scripts/python.exe -m pip install unifiedcatalogpy azure-purview-catalog azure-identity
+C:/Users/Downloads/Scripts/.venv/Scripts/python.exe -m pip install unifiedcatalogpy azure-purview-catalog azure-identity
 ```
 
 Usage notes
